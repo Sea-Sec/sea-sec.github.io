@@ -1970,11 +1970,19 @@
 				width: 47%;
 			}
 
+			.flex.flex-5 .box {
+				width: 47%;
+			}
+
 		}
 
 		@media screen and (max-width: 480px) {
 
 			.flex.flex-4 .box {
+				width: 100%;
+			}
+
+			.flex.flex-5 .box {
 				width: 100%;
 			}
 
